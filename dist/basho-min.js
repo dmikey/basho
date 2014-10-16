@@ -1,0 +1,1 @@
+define("basho",["require"],function(e){var t=t||window,n=t,r={scope:n};return r});define(["basho"], function (basho) { return basho; });
